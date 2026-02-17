@@ -1,6 +1,6 @@
 ---
 title: "First Knit"
-author: "Your Name"
+author: "Daniel Flores"
 output: 
   html_document:
     number_sections: true
@@ -17,7 +17,7 @@ Here are just a few questions so I can get to know you and so you can get practi
 Where did you attend High School, and did you graduate? Compare english class to math, is one easier for you than the other? Finally which subject did you do the best in? Your answer should have at least two sentences devoted to each question.  
   
 ### my answer     
-  
+  I attended High School at a school called Browning in Long Beach California for my first two years then I moved to Palmdale and finished my last two years at Highland High School and I did graduate at Highland. For me english is easier than math because it's more about interpretation and expressing ideas, while math requires precise calculations with clear right or wrong answers.The subject I did the best in was art because it allowed me to be creative, express myself freely, and think outside the box without worrying about being wrong.
 
      
 
